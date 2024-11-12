@@ -34,5 +34,13 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=dle234&bg_color=60,ff9e9e,668cff&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dle234&layout=compact&bg_color=60,ff9e9e,668cff&title_color=ffffff&text_color=ffffff"
            /> </div> 
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2> <br>  
+       <div align= "center"> <img
+  src="https://render.gitanimals.org/farms/dle234"
+  width="600"
+  height="300"
+/> </div> 
+
+</a>
     </div>
     
